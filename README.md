@@ -20,7 +20,6 @@ or follow DevTown on:
 "https://www.instagram.com/devtown.in/">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/c/DevTownIndia">YouTu
-be</a>
+"https://www.youtube.com/c/DevTownIndia">YouTube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
